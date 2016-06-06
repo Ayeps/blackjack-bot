@@ -4,6 +4,7 @@
   "description": "project pulled from \u0016https://github.com/stdarg/blackjack",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Daniel Ayepaj-Mensah",
