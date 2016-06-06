@@ -1,0 +1,3 @@
+[2016-06-06 16:10:12.253] [INFO] blackjack_server - Listening on port 5000.
+[2016-06-06 16:10:12.297] [WARNING] blackjack_server - Adding debug routes
+[2016-06-06 16:10:49.657] [INFO] blackjack_server - /viewTables {"success":true,"cmd":"viewTables","tables":{"1":{"id":1,"players":{},"numPlayers":0,"state":"waiting for players"},"2":{"id":2,"players":{},"numPlayers":0,"state":"waiting for players"},"3":{"id":3,"players":{},"numPlayers":0,"state":"waiting for players"},"4":{"id":4,"players":{},"numPlayers":0,"state":"waiting for players"},"5":{"id":5,"players":{},"numPlayers":0,"state":"waiting for players"},"6":{"id":6,"players":{},"numPlayers":0,"state":"waiting for players"}}}
